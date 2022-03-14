@@ -25,8 +25,7 @@ Some examples are : ---
 i. AND operation
 ii. OR operation
 iii. NOT operation
-
-like:
+example
 ### name starts with 'A' && salary > 3000000
 ![search combinations](images/3.png)![a](images/4.png)
 
