@@ -17,7 +17,8 @@ Some examples are : ---
 1. Display records
 ![display](images/1.png)
 
-2. Search records
+2. Search records: query :  
+### empid > 5:
 ![search](images/2.png)
 
 3. You can also extend search queries with Combinations options like:
@@ -26,6 +27,7 @@ ii. OR operation
 iii. NOT operation
 
 like:
+### name starts with 'A' && salary > 3000000
 ![search combinations](images/3.png)![a](images/4.png)
 
 
